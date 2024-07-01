@@ -6,11 +6,11 @@ This project contains SQL scripts to create and manage the `ABCSolutions` databa
 
 1. Clone the repository:
    ```sh
-   git clone <(https://github.com/<Koush98>/ABCSolutions-Database-Sql_Tables.git)>
+   git clone <https://github.com/<Koush98>/ABCSolutions-Database-Sql_Tables.git>
    
 2. Navigate to the project directory:
    '''sh
-   cd [<ABCSolutions-Database-Sql_Tables>]
+   cd <ABCSolutions-Database-Sql_Tables>
 4. Use the provided SQL script to create the database and tables.
    You can execute the script using a MySQL client like MySQL
    Workbench or the MySQL command line:
@@ -19,11 +19,11 @@ This project contains SQL scripts to create and manage the `ABCSolutions` databa
 # Tables and Constraints
 The following tables are created in the ABCSolutions database:
 
--'countries'
--'jobs'
--'departments'
--'employees'
--'job_history'
+- 'countries'
+- 'jobs'
+- 'departments'
+- 'employees'
+- 'job_history'
 
 Each table includes various constraints such as NOT NULL, PRIMARY KEY, UNIQUE, CHECK, and foreign key relationships.
 

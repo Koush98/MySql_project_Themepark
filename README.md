@@ -8,7 +8,7 @@ This project contains SQL scripts to create and manage the \`ABCSolutions\` data
 
 1. Clone the repository:
    \`\`\`sh
-   git clone https://github.com/Koush98/ABCSolutions-Database-Sql_Tables
+   git clone [https://github.com/Koush98/ABCSolutions-Database-Sql_Tables](https://github.com/Koush98/MySql_projects)
    \`\`\`
 
 2. Navigate to the project directory:

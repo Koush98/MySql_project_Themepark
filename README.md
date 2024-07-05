@@ -1,5 +1,4 @@
-cd <repository_name>
-echo "
+
 # ThemePark SQL Project
 
 This repository contains SQL scripts and data files for managing a theme park database. The project includes creating tables, inserting data, and querying information related to theme parks, attractions, employees, sales, and tickets.
@@ -20,10 +19,10 @@ The ThemePark SQL Project is designed to demonstrate database management skills 
 
 ## Files Included
 
-create_themepark.sql: SQL script to create the database schema for the theme park.
-insert_data.sql: SQL script to populate the database tables with sample data.
-queries.sql: SQL script containing a variety of queries to analyze and retrieve data from the theme park database.
-README.md: This file, providing an overview of the project and instructions.
+- create_themepark.sql: SQL script to create the database schema for the theme park.
+- insert_data.sql: SQL script to populate the database tables with sample data.
+- queries.sql: SQL script containing a variety of queries to analyze and retrieve data from the theme park database.
+- README.md: This file, providing an overview of the project and instructions.
 
 ## Database Schema
 
@@ -34,7 +33,7 @@ The database schema includes tables such as themepark, attraction, employee, tic
 To set up the theme park database locally or on a server:
 
 1. Clone the Repository:
-[Project Repository]git clone <repository-url>
+[Project Repository]git clone (https://github.com/Koush98/MySql_project_Themepark/edit/main/README.md)
 cd themepark-sql-project
 
 2. Create the Database:

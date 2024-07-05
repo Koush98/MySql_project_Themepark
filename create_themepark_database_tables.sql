@@ -60,8 +60,8 @@ CREATE TABLE hours (
 
 -- Create table for sales transactions
 CREATE TABLE sales (
-    transaction_no INT PRIMARY KEY,
     emp_num INT,
+    transaction_no INT PRIMARY KEY,
     park_code VARCHAR(10),
     sale_date DATE,
     FOREIGN KEY (park_code) REFERENCES themepark(park_code)

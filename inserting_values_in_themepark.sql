@@ -40,11 +40,11 @@ VALUES
     (3, 3001, 9.0, 22.00, '2023-07-02');
 
 -- Insert data into sales table
-INSERT INTO sales (transaction_no, park_code, sale_date)
+INSERT INTO sales (emp_num, transaction_no, park_code, sale_date)
 VALUES
-    (1001, 'US001', '2023-07-01'),
-    (1002, 'FR123', '2023-07-01'),
-    (1003, 'UK456', '2023-07-02');
+    (1, 1001, 'US001', '2023-07-01'),
+    (2, 1002, 'FR123', '2023-07-01'),
+    (3, 1003, 'UK456', '2023-07-02');
 
 -- Insert data into sales_line table
 INSERT INTO sales_line (transaction_no, line_no, ticket_no, line_qty, line_price)

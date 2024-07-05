@@ -33,7 +33,7 @@ The database schema includes tables such as themepark, attraction, employee, tic
 To set up the theme park database locally or on a server:
 
 1. Clone the Repository:
-[Project Repository]git clone <https://github.com/Koush98/MySql_project_Themepark/edit/main/README.md>
+[Project Repository]git clone <(https://github.com/Koush98/MySql_project_Themepark/tree/main)>
 cd themepark-sql-project
 
 2. Create the Database:
